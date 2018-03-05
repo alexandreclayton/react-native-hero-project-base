@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "'Source Code Pro',Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+}
